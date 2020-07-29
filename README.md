@@ -1,5 +1,8 @@
 ### Hi there 👋
+My name is João Felipe from Brazil [🇧🇷]. 
 
+I'm a software development student at Software Residence, led by SerraTec. 
+I'm interesting in learning JavaScript, React, React Native, Java and Spring Boot.
 <!--
 **brjoaof/brjoaof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
