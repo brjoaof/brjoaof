@@ -2,7 +2,7 @@
 My name is João Felipe from Brazil [🇧🇷]. 
 
 I'm a software developer at Info4 
-I'm interested in learning more about JavaScript, React, React Native, Python, Statistics and Data Science.
+I'm interested in learning more about JavaScript, React, React Native, Android and Kotlin.
 <!--
 **brjoaof/brjoaof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
